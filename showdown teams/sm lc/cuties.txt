@@ -1,0 +1,60 @@
+Shinx @ Flame Orb  
+Ability: Guts  
+Level: 5  
+EVs: 236 Atk / 4 Def / 236 Spe  
+Jolly Nature  
+- Facade  
+- Wild Charge  
+- Fire Fang  
+- Double Kick  
+
+Cranidos (M) @ Choice Band  
+Ability: Sheer Force  
+Level: 5  
+Shiny: Yes  
+EVs: 60 HP / 236 Atk / 212 Spe  
+Adamant Nature  
+- Superpower  
+
+Cottonee (F) @ Leftovers  
+Ability: Prankster  
+Level: 5  
+EVs: 196 Def / 196 SpD / 68 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Cotton Guard  
+- Giga Drain  
+- Leech Seed  
+- Encore  
+
+Inkay (M) @ Life Orb  
+Ability: Contrary  
+Level: 5  
+EVs: 252 HP / 244 Atk  
+Jolly Nature  
+- Superpower  
+- Knock Off  
+- Psycho Cut  
+- Substitute  
+
+Ralts (F) @ Aguav Berry  
+Ability: Trace  
+Level: 5  
+Shiny: Yes  
+EVs: 52 HP / 156 Def / 236 SpD  
+Impish Nature  
+- Light Screen  
+- Recycle  
+- Shadow Sneak  
+- Heal Pulse  
+
+Pineco @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 196 HP / 236 Atk / 76 SpD  
+Relaxed Nature  
+- Spikes  
+- Toxic Spikes  
+- Stealth Rock  
+- Pin Missile  
+

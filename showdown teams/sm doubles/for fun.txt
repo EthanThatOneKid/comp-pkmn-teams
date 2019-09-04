@@ -1,0 +1,55 @@
+Farfetch'd @ Focus Sash  
+Ability: Defiant  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- First Impression  
+- Acrobatics  
+- Double-Edge  
+- Final Gambit  
+
+Toucannon @ Aguav Berry  
+Ability: Skill Link  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Jolly Nature  
+- Bullet Seed  
+- Rock Blast  
+- Gunk Shot  
+- Beak Blast  
+
+Mudsdale @ Iapapa Berry  
+Ability: Stamina  
+EVs: 252 HP / 252 SpD  
+Sassy Nature  
+- Earthquake  
+- Heavy Slam  
+- Close Combat  
+- Rock Slide  
+
+Porygon2 @ Chesto Berry  
+Ability: Analytic  
+EVs: 252 HP / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk  
+- Rest  
+- Shadow Ball  
+- Psyshock  
+- Sleep Talk  
+
+Lucario @ Assault Vest  
+Ability: Justified  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Blaze Kick  
+- Bullet Punch  
+- Crunch  
+- Drain Punch  
+
+Whimsicott @ Figy Berry  
+Ability: Prankster  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Cotton Guard  
+- Giga Drain  
+- Beat Up  
+- Dazzling Gleam  
+
