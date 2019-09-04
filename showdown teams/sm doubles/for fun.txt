@@ -25,16 +25,6 @@ Sassy Nature
 - Close Combat  
 - Rock Slide  
 
-Porygon2 @ Chesto Berry  
-Ability: Analytic  
-EVs: 252 HP / 252 SpA  
-Quiet Nature  
-IVs: 0 Atk  
-- Rest  
-- Shadow Ball  
-- Psyshock  
-- Sleep Talk  
-
 Lucario @ Assault Vest  
 Ability: Justified  
 EVs: 252 Atk / 252 Spe  
@@ -53,3 +43,11 @@ Timid Nature
 - Beat Up  
 - Dazzling Gleam  
 
+Kangaskhan-Mega (F) @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Seismic Toss  
+- Dizzy Punch  
+- Power-Up Punch  
+- Crunch  
