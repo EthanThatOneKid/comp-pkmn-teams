@@ -61,6 +61,6 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Adamant Nature  
 - Rock Tomb  
 - Bullet Seed  
-- Bullet Seed  
+- Mach Punch  
 - Spore  
 
