@@ -1,0 +1,95 @@
+The Zard (Charizard-Mega-Y) (M) @ Charizardite Y  
+Ability: Drought  
+Level: 50  
+Shiny: Yes  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Solar Beam
+- Dragon Pulse  
+- Focus Blast  
+
+# Dragapult
+> https://www.serebii.net/pokedex-swsh/dragapult/
+* Curse strat
+
+# Togekiss
+> https://www.serebii.net/pokedex-swsh/togekiss/
+* Serene Grace with Air Slash
+
+# Lucario
+> https://www.serebii.net/pokedex-swsh/lucario/
+* Justified (HA)
+
+# Cursola
+> https://www.serebii.net/pokedex-swsh/cursola/
+* Iron Defense (TR46)
+* Strength Sap (LV35)
+* Shadow Ball (TR33)
+* Round (TM76)
+
+# Appletun
+> https://www.serebii.net/pokedex-swsh/appletun/
+* Ripen Ability
+* Substitute (TR20)
+* Apple Acid (LV28)
+* Dragon Pulse (LV40)
+* Recycle (LV)
+
+# Flapple
+> https://www.serebii.net/pokedex-swsh/flapple/
+* Ripen Ability
+* Dragon Dance (LV24)
+* Acrobatics (TM78)
+* Grav Apple (LV32)
+* Outrage (TR24)
+
+# Darmanitan (Galarian)
+> https://www.serebii.net/pokedex-swsh/darmanitan/
+* Zen Mode (HA)
+* Focus Punch (SMGL)
+* Yawn (SMGL)
+* Substitute (TR20)
+* Ice Punch (TM04) / Rock Slide (TM22)
+
+# Frosmoth
+> https://www.serebii.net/pokedex-swsh/frosmoth/
+* Ice Scales (HA)
+* Tailwind (LV44)
+* Feather Dance (LV21)
+* Ice Beam (TR05)
+* Bug Buzz (TR61)
+
+# Cloyster (Shieldbraekor)
+* Skill Link Ability
+* Icicle Spear (LV)
+* Rock Blast (TM54)
+* Life Dew (EGG)
+* Pin Missile (TM07)
+
+# Cramorant
+* Stockpile (LV) / Amnesia (LV42)
+* Air Slash (TM95)
+* Surf (TR04)
+* Roost (EGG) / Aqua Ring (EGG)
+
+# Eiscue
+* Protect (TM25)
+* Reversal (TR21) / Ice Punch (TM04) / Avalanche (TM64)
+* Substitute (TR20)
+* Belly Drum (EGG)
+
+# Butterfree
+* Compound Eyes Ability
+* Sleep Powder (LV12)
+* Air Slash (LV24) / Hurricane (TR89)
+* Tailwind (LV36)
+* Bug Buzz (LV32) / Pollen Puff (TR96)
+
+# Toxtricity
+* Technician (HA)
+* Shock Wave (LV08)
+* Swift (TM40) / Round (TM76)
+* Snarl (TM85)
+* Taunt (LV16) / Toxic (LV32)
