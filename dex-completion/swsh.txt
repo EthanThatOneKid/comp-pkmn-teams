@@ -1,0 +1,58 @@
+# Capture/Trade
+* Lotad
+* Spritzee
+* Croagunk
+* Vullaby
+* Mawile
+* Sableye
+* Mimikyu
+* Galarian Ponyta
+* Feebas
+* Milotic
+* Oranguru
+* Drampa
+* Lunatone
+* Eiscue
+* Silvally
+* Zamazenta
+
+# Breed
+* Pichu
+* Cleffa
+
+# Fossils
+* Dracozolt
+* Dracovish
+
+# Item Evolutions
+* Helioptile + Sun Stone
+* Galarian Darumaka + Ice Stone
+* Lombre + Water Stone
+* Minccino + Shiny Stone
+* Growlithe + Fire Stone
+* Snorunt + Dawn Stone
+* Eevee + Water Stone
+* Eevee + Thunder Stone
+* Eevee + Ice Stone
+* Flapple + Sweet Apple
+* Cottonee + Sun Stone
+
+# Trade + Item Evolutions
+* Swirlix + Whipped Dream
+* Spritzee + Sachet
+* Rhydon + Protector
+
+# Trade Evolutions
+* Phantump
+
+# Special Trade Evolutions
+* Shelmet
+* Escavalier
+* Accelgor
+
+# Level Up Evolutions
+* Charmeleon
+* Charizard
+* Toxicroak
+* Galarian Rapidash
+* Mandibuzz
