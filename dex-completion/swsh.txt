@@ -3,7 +3,6 @@
 * Spritzee
 * Croagunk
 * Vullaby
-* Mawile
 * Sableye
 * Mimikyu
 * Galarian Ponyta
@@ -28,13 +27,12 @@
 * Helioptile + Sun Stone
 * Galarian Darumaka + Ice Stone
 * Lombre + Water Stone
-* Minccino + Shiny Stone
 * Growlithe + Fire Stone
 * Snorunt + Dawn Stone
 * Eevee + Water Stone
 * Eevee + Thunder Stone
 * Eevee + Ice Stone
-* Flapple + Sweet Apple
+* Applin + Sweet Apple
 * Cottonee + Sun Stone
 
 # Trade + Item Evolutions
