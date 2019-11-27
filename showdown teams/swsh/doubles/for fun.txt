@@ -31,7 +31,7 @@ IVs: 0 Atk
 
 # Appletun
 > https://www.serebii.net/pokedex-swsh/appletun/
-* Ripen Ability
+* Ripen Ability @ Sitrus Berry
 * Substitute (TR20)
 * Apple Acid (LV28)
 * Dragon Pulse (LV40)
