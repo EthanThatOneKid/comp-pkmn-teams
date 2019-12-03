@@ -1,0 +1,56 @@
+Dracovish @ Blunder Policy
+Ability: Water Absorb
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Earthquake (TR10)
+- Fishious Rend (LV63)
+- Psychic Fangs (TR97)
+- Dragon Rush (LV77)
+
+Toxapex @ Rocky Helmet
+Ability: Merciless
+EVs: 252 HP / 128 Def / 128 SpD
+Bold Nature
+IVs: 0 Atk
+- Baneful Bunker (LV)
+- Stockpile (EGG: Pelipper, Cramorant)
+- Surf (TR04)
+- Recover (LV20)
+
+Stonjourner @ Assault Vest
+Ability: Power Spot
+EVs: 252 HP / 252 SpD / 4 Spe
+Careful Nature
+- Body Press (TR99)
+- Rock Blast (TM54)
+- Heavy Slam (TR79)
+- Heat Crash (TR88)
+
+Rotom-Heat @ Light Clay
+Ability: Levitate
+EVs: 252 HP / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Light Screen (TM17)
+- Reflect (TM18)
+- Overheat (LV)
+- Volt Switch (TM80)
+
+Dragapult @ Choice Band
+Ability: Infiltrator
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- U-turn (LV36)
+- Dragon Darts (LV)
+- Phantom Force (LV48)
+- Sucker Punch (LV)
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 252 SpA / 4 Spe
+Timid Nature
+IVs: 0 Atk
+- Air Slash (LV)
+- Draining Kiss (TM87)
+- Nasty Plot (TR68)
+- Stored Power (TR82)
