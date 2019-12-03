@@ -1,14 +1,11 @@
-The Zard (Charizard-Mega-Y) (M) @ Charizardite Y  
-Ability: Drought  
-Level: 50  
-Shiny: Yes  
-EVs: 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Heat Wave  
-- Solar Beam
-- Dragon Pulse  
-- Focus Blast  
+Grapploct @ Chesto Berry  
+Ability: Technician  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Power-Up Punch  
+- Sleep Talk  
+- Rest  
+- Payback
 
 # Dragapult
 > https://www.serebii.net/pokedex-swsh/dragapult/

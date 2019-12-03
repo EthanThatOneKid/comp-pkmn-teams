@@ -1,14 +1,8 @@
 # Capture/Trade
-* Lotad
 * Spritzee
 * Croagunk
 * Vullaby
-* Sableye
-* Mimikyu
 * Galarian Ponyta
-* Feebas
-* Milotic
-* Oranguru
 * Drampa
 * Lunatone
 * Eiscue
@@ -34,14 +28,12 @@
 * Eevee + Ice Stone
 * Applin + Sweet Apple
 * Cottonee + Sun Stone
+* Feebas + Prism Scale
 
 # Trade + Item Evolutions
 * Swirlix + Whipped Dream
 * Spritzee + Sachet
 * Rhydon + Protector
-
-# Trade Evolutions
-* Phantump
 
 # Special Trade Evolutions
 * Shelmet
@@ -49,8 +41,6 @@
 * Accelgor
 
 # Level Up Evolutions
-* Charmeleon
-* Charizard
 * Toxicroak
 * Galarian Rapidash
 * Mandibuzz

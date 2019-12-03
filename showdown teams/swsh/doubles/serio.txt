@@ -1,0 +1,57 @@
+Dracovish @ Blunder Policy  
+Ability: Water Absorb  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Earthquake  
+- Fishious Rend  
+- Psychic Fangs  
+- Dragon Rush  
+
+Toxapex @ Rocky Helmet  
+Ability: Merciless  
+EVs: 252 HP / 128 Def / 128 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Stockpile  
+- Surf  
+- Recover  
+
+Stonjourner @ Assault Vest  
+Ability: Power Spot  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Body Press  
+- Rock Blast  
+- Heavy Slam  
+- Heat Crash  
+
+Appletun @ Maranga Berry  
+Ability: Ripen  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Recover  
+- Apple Acid  
+- Leech Seed  
+- Iron Defense  
+
+Dragapult @ Choice Band  
+Ability: Infiltrator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Dragon Darts  
+- Phantom Force  
+- Sucker Punch  
+
+Togekiss @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Draining Kiss  
+- Nasty Plot  
+- Stored Power  
+
