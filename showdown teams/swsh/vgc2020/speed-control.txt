@@ -1,0 +1,66 @@
+Torkoal (F) @ Choice Specs  
+Ability: Drought  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Eruption  
+- Solar Beam  
+- Scorching Sands  
+- Sludge Bomb  
+
+Porygon2 @ Eviolite  
+Ability: Analytic  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 Def / 252 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Recover  
+- Ice Beam  
+- Tri Attack  
+
+Cinccino (F) @ Flame Orb  
+Ability: Cute Charm  
+Level: 50  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- After You  
+- Facade  
+- U-turn  
+- Encore  
+
+Butterfree @ Focus Sash  
+Ability: Compound Eyes  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Pollen Puff  
+- Sleep Powder  
+- Whirlwind  
+
+Dunsparce @ Rocky Helmet  
+Ability: Serene Grace  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Roost  
+- Calm Mind  
+- Stored Power  
+
+Swoobat @ Sitrus Berry  
+Ability: Simple  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Trick Room  
+- Baton Pass  
+- Nasty Plot  
+

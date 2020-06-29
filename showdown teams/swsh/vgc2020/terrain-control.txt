@@ -1,0 +1,60 @@
+Liepard @ Throat Spray  
+Ability: Prankster  
+Level: 50  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Encore  
+- Snarl  
+- Fake Tears  
+- Screech  
+
+Rillaboom @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+- High Horsepower  
+
+Amoonguss @ Sitrus Berry  
+Ability: Effect Spore  
+EVs: 252 HP / 200 Def / 56 SpD  
+Sassy Nature  
+IVs: 0 Atk  
+- Rage Powder  
+- Spore  
+- Pollen Puff  
+- Sludge Bomb  
+
+Raichu-Alola @ Focus Sash  
+Ability: Surge Surfer  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rising Voltage  
+- Psychic  
+- Surf  
+- Draining Kiss  
+
+Pincurchin @ Terrain Extender  
+Ability: Electric Surge  
+EVs: 252 HP / 4 Def / 252 SpD  
+Timid Nature  
+IVs: 0 Atk  
+- Memento  
+- Toxic Spikes  
+- Spikes  
+- Scald  
+
+Thievul @ Grassy Seed  
+Ability: Unburden  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot  
+
