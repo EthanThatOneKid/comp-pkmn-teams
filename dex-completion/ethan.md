@@ -22,7 +22,7 @@
 * [ ] 283: Vullaby (trade)
 * [ ] 284: Mandabuzz (trade)
 * [x] 319: Heliolisk (evolve)
-* [ ] 334: Rapidash (evolve)
+* [ ] 334: Rapidash (evolve) <- *In Progress*
 * [ ] 346: Drampa (trade)
 * [ ] 362: Lunatone (trade)
 * [ ] 374: Dracozolt (trade)
