@@ -8,7 +8,7 @@ This repository is a collection of *competitive Pokémon teams*.
 
 1. Submit a pull request or an issue
 1. Your submission will be reviewed
-1. If it passes review, I will add it to the repository
+1. If it passes review, I will merge it to the repository
 
 ### Style Guide 💅
 
