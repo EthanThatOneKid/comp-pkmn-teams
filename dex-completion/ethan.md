@@ -2,10 +2,10 @@
 
 > For Ethan...
 
-* [ ] 37: Lombre (evolve)
-* [ ] 38: Ludicolo (evolve)
-* [ ] 71: Arcanine (evolve)
-* [ ] 81: Froslass (catch)
+* [x] 37: Lombre (evolve)
+* [x] 38: Ludicolo (evolve)
+* [x] 71: Arcanine (evolve)
+* [x] 81: Froslass (catch)
 * [ ] 153: Milotic (catch)
 * [ ] 193: Pichu (trade)
 * [ ] 197: Vaporeon (catch)
@@ -18,10 +18,10 @@
 * [ ] 254: Cleffa (breed)
 * [ ] 266: Rhyperior (trade)
 * [ ] 274: Escavalier (trade)
-* [ ] 275: Shelmet (breed)
+* [x] 275: Shelmet (breed)
 * [ ] 283: Vullaby (trade)
 * [ ] 284: Mandabuzz (trade)
-* [ ] 319: Heliolisk (evolve)
+* [x] 319: Heliolisk (evolve)
 * [ ] 334: Rapidash (evolve)
 * [ ] 346: Drampa (trade)
 * [ ] 362: Lunatone (trade)
@@ -32,3 +32,5 @@
 ---
 
 > Thanks for your help, Chris.
+
+## [Galar Pokédex](https://www.serebii.net/swordshield/galarpokedex.shtml)
