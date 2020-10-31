@@ -16,6 +16,11 @@ Pokémon teams are represented by a single text file.
 Therefore, the naming convention for a team is the following: `<generation>/<format>/<title>.txt`.
 Each text file is notated via Pokémon Showdown standards.
 
+### References 📚
+
+- [Pokémon Showdown](https://www.pokemonshowdown.com/)
+- [Koffing (Pokémon Showdown Team parser)](https://github.com/itsjavi/koffing)
+
 ---
 
 Pokémon-ing with 💖 by EthanThatOneKid
