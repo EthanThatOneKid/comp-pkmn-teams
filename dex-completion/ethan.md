@@ -24,9 +24,9 @@
 * [x] 319: Heliolisk (evolve)
 * [x] 334: Rapidash (evolve)
 * [ ] 346: Drampa (trade)
-* [ ] 362: Lunatone (trade)
-* [ ] 374: Dracozolt (trade)
-* [ ] 382: Silvaly (trade)
+* [x] 362: Lunatone (trade)
+* [x] 374: Dracozolt (trade)
+* [x] 382: Silvaly (trade)
 * [ ] 399: Zamazenta (trade)
 
 ---
